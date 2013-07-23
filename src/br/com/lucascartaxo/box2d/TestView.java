@@ -15,7 +15,7 @@ import org.jbox2d.dynamics.Fixture;
 import org.jbox2d.dynamics.joints.MouseJoint;
 import org.jbox2d.dynamics.joints.MouseJointDef;
 
-import pl.mg6.testing.box2d.R;
+import br.com.lucascartaxo.box2d.R;
 
 import android.content.Context;
 import android.content.res.Resources;

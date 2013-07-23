@@ -3,7 +3,7 @@ package br.com.lucascartaxo.box2d;
 import org.jbox2d.common.Vec2;
 import org.jbox2d.dynamics.Body;
 
-import pl.mg6.testing.box2d.R;
+import br.com.lucascartaxo.box2d.R;
 
 import android.app.Activity;
 import android.content.Context;
