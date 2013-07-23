@@ -22,7 +22,7 @@ public class PhysicsWorld {
 	public void create(Vec2 gravity) {
 
 		// Step 2: Create Physics World with Gravity
-		boolean doSleep = false;
+		boolean doSleep = true;
 		world = new World(gravity, doSleep);
 
 		// Step 3: Create Ground Box
