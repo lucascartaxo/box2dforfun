@@ -3,11 +3,5 @@
 
     <string name="app_name">Box2DForFun</string>
     <string name="clear">Clear</string>
-    <string name="rotate">Rotate</string>
-    <string name="gravity">Gravity</string>
-    <string name="gravity_normal">Earth</string>
-    <string name="gravity_moon">Moon</string>
-    <string name="gravity_zero">Zero</string>
-    <string name="gravity_accelerometer">Accelerometer</string>
 
 </resources>
