@@ -1,4 +1,4 @@
-package pl.mg6.testing.box2d;
+package br.com.lucascartaxo.box2d;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -14,6 +14,8 @@ import org.jbox2d.dynamics.Body;
 import org.jbox2d.dynamics.Fixture;
 import org.jbox2d.dynamics.joints.MouseJoint;
 import org.jbox2d.dynamics.joints.MouseJointDef;
+
+import pl.mg6.testing.box2d.R;
 
 import android.content.Context;
 import android.content.res.Resources;

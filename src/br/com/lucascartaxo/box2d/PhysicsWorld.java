@@ -1,4 +1,4 @@
-package pl.mg6.testing.box2d;
+package br.com.lucascartaxo.box2d;
 
 import java.util.ArrayList;
 import java.util.List;

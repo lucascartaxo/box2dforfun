@@ -12,7 +12,7 @@
         android:label="@string/app_name"
         android:theme="@android:style/Theme.NoTitleBar" >
         <activity
-            android:name=".Box2dTestActivity"
+            android:name="br.com.lucascartaxo.box2d.Box2dTestActivity"
             android:screenOrientation="nosensor" >
             <intent-filter >
                 <action android:name="android.intent.action.MAIN" />
