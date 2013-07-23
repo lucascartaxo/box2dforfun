@@ -28,7 +28,7 @@ import android.util.Log;
 import android.view.MotionEvent;
 import android.view.View;
 
-public class TestView extends View {
+public class GameView extends View {
 	
 	private PhysicsWorld world;
 	private Bitmap beachBall, tennisBall, soccerBall;
@@ -41,7 +41,7 @@ public class TestView extends View {
 	
 	private Map<Integer, MouseJoint> mouseJoints = new HashMap<Integer, MouseJoint>();
 	
-	public TestView(Context context) {
+	public GameView(Context context) {
 		super(context);
 		setClickable(true);
 	}

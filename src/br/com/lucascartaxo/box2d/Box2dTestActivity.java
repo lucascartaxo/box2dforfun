@@ -10,14 +10,14 @@ import android.view.MenuItem;
 
 public class Box2dTestActivity extends Activity {
 
-    private TestView view;
+    private GameView view;
     private PhysicsWorld w;
     private Runnable r;
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        view = new TestView(this);
+        view = new GameView(this);
         setContentView(view);
 
         w = new PhysicsWorld();
