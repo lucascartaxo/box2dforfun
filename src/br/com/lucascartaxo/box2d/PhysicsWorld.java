@@ -34,7 +34,7 @@ public class PhysicsWorld {
 		
 		groundBody.createFixture(polygonShape, 1.0f);
 		
-		groundBodyDef.position.set(new Vec2(5.0f, 32.0f));
+		groundBodyDef.position.set(new Vec2(5.0f, 16.0f));
 		groundBody = world.createBody(groundBodyDef);
 		
 		groundBody.createFixture(polygonShape, 1.0f);
